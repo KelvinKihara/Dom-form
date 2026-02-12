@@ -1,0 +1,24 @@
+{
+  "name": "dom-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "build": "tailwindcss build src/styles/styles.css -o dist/styles.css"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelvinKihara/Dom-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KelvinKihara/Dom-form/issues"
+  },
+  "homepage": "https://github.com/KelvinKihara/Dom-form#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.1.18"
+  }
+}
